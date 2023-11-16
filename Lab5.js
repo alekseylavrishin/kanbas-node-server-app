@@ -24,7 +24,7 @@ const Lab5 = (app) => {
 
     app.get("/a5/assignment/completed/:newCompleted", (req, res) => {
         const {newCompleted} = req.params;
-        assignment.completed = newCompleted;
+        assignment.completed = JSON.parse(newCompleted);
         res.json(assignment);
     })
 
