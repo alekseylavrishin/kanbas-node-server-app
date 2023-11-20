@@ -1,0 +1,148 @@
+[
+  {
+    "_id": "M101",
+    "name": "Week 0 - INTRO",
+    "modulesList": [
+      {
+        "title": "LEARNING OBJECTIVES",
+        "type": "sectionHeading"
+      },
+      {
+        "title": "Introduction to the course",
+        "type": "post"
+      },
+      {
+        "title": "Learn what is Web Development",
+        "type": "post"
+      },
+      {
+        "title": "Creating a development environment",
+        "type": "post"
+      },
+      {
+        "title": "Creating a web application",
+        "type": "post"
+      },
+      {
+        "title": "Getting started with the 1st assignment",
+        "type": "post"
+      },
+      {
+        "title": "READING",
+        "type": "sectionHeading"
+      },
+      {
+        "title": "Full Stack Developer - Chapter 1 - Introduction",
+        "type": "url",
+        "link": ""
+      },
+      {
+        "title": "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML",
+        "type": "url",
+        "link": ""
+      },
+      {
+        "title": "SLIDES",
+        "type": "sectionHeading"
+      },
+      {
+        "title": "Introduction to Web Development",
+        "type": "url",
+        "link": ""
+      },
+      {
+        "title": "Creating an HTTP server with Node.js",
+        "type": "url",
+        "link": ""
+      },
+      {
+        "title": "Creating a React Application",
+        "type": "url",
+        "link": ""
+      }
+    ],
+    "course": "52367"
+  },
+
+  {
+    "_id": "M201",
+    "name": "Week 0 - INTRO",
+    "modulesList": [
+      {
+        "title": "LEARNING OBJECTIVES",
+        "type": "sectionHeading"
+      },
+      {
+        "title": "Introduction to the course",
+        "type": "post"
+      },
+      {
+        "title": "Learn what is Web Development",
+        "type": "post"
+      }
+    ],
+    "course": "46821"
+  },
+
+  {
+    "_id": "M201",
+    "name": "Week 0 - INTRO",
+    "modulesList": [
+      {
+        "title": "LEARNING OBJECTIVES",
+        "type": "sectionHeading"
+      },
+      {
+        "title": "Introduction to the course",
+        "type": "post"
+      },
+      {
+        "title": "Learn what is Web Development",
+        "type": "post"
+      }
+    ],
+    "course": "37996"
+  },
+
+  {
+    "_id": "M301",
+    "name": "Week 0 - INTRO",
+    "modulesList": [
+      {
+        "title": "LEARNING OBJECTIVES",
+        "type": "sectionHeading"
+      },
+      {
+        "title": "Introduction to the course",
+        "type": "post"
+      },
+      {
+        "title": "Learn what is Web Development",
+        "type": "post"
+      }
+    ],
+    "course": "52307"
+  },
+
+  {
+    "_id": "M301",
+    "name": "Week 0 - INTRO",
+    "modulesList": [
+      {
+        "title": "LEARNING OBJECTIVES",
+        "type": "sectionHeading"
+      },
+      {
+        "title": "Introduction to the course",
+        "type": "post"
+      },
+      {
+        "title": "Learn what is Web Development",
+        "type": "post"
+      }
+    ],
+    "course": "52421"
+  }
+
+]
+

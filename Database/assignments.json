@@ -1,0 +1,41 @@
+[
+  { "_id": "A101", "title": "Object-Oriented-Design Assignment", "course": "52307", "totalPoints": 100,
+    "due": "Sep 10 at 11:59pm"},
+  { "_id": "A102", "title": "Object-Oriented-Design Quiz 1", "course": "52307", "totalPoints": 50,
+    "due": "Sep 15 at 11:59pm" },
+  { "_id": "A103", "title": "Object-Oriented-Design Project 1", "course": "52307", "totalPoints": 100,
+    "due": "Sep 23 at 11:59pm"},
+
+  { "_id": "A201", "title": "Discrete Structures Quiz 1", "course": "37996", "totalPoints": 25,
+    "due": "Sep 14 at 11:59pm"},
+  { "_id": "A202", "title": "Discrete Structures Homework 1", "course": "37996", "totalPoints": 100,
+    "due": "Sep 21 at 11:59pm"},
+  { "_id": "A203", "title": "Discrete Structures Homework 2", "course": "37996", "totalPoints": 100,
+    "due": "Oct 7 at 11:59pm"},
+
+  { "_id": "A301", "title": "Algorithms Homework 1", "course": "46821", "totalPoints": 100,
+    "due": "Sep 14 at 11:59pm"},
+  { "_id": "A302", "title": "Algorithms Quiz 1", "course": "46821", "totalPoints": 40,
+    "due": "Sep 20 at 11:59pm"},
+  { "_id": "A302", "title": "Algorithms Quiz 2", "course": "46821", "totalPoints": 35,
+    "due": "Oct 11 at 11:59pm"},
+
+  { "_id": "A401", "title": "WD Assignment 1", "course": "52367", "totalPoints": 100,
+    "due": "Sep 10 at 11:59pm"},
+  { "_id": "A402", "title": " WD Assignment 2", "course": "52367", "totalPoints": 100,
+    "due": "Sep 30 at 11:59pm"},
+  { "_id": "A403", "title": "WD Assignment 3", "course": "52367", "totalPoints": 100,
+    "due": "Oct 5 at 11:59pm"},
+  { "_id": "A404", "title": "WD Quiz 1", "course": "52367", "totalPoints": 25,
+    "due": "Sep 15 at 11:59pm" },
+  { "_id": "A405", "title": "WD Quiz 2", "course": "52367", "totalPoints": 38,
+    "due": "Sep 23 at 11:59pm"
+  },
+
+  { "_id": "A501", "title": "Recitation Quiz 1", "course": "52421", "totalPoints": 50,
+    "due": "Sep 10 at 11:59pm"},
+  { "_id": "A502", "title": "Recitation Lab 1", "course": "52421", "totalPoints": 35,
+    "due": "Sep 15 at 11:59pm" },
+  { "_id": "A503", "title": "Recitation Lab 2", "course": "52421", "totalPoints": 35,
+    "due": "Sep 23 at 11:59pm"}
+]
